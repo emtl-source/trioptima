@@ -1,0 +1,9 @@
+Optimize Autoencoder
+    dim
+    activation function
+    layers
+    neurons
+
+Hard coding in data cleaning and data processing
+    drop columns
+    dateTime columns
