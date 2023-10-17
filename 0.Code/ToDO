@@ -1,3 +1,6 @@
+CashRisk
+    Handle "negative" dates that are created when the first payment is before todays date. 
+
 Optimize Autoencoder
     dim
     activation function
