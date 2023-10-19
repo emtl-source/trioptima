@@ -1,5 +1,6 @@
 CashRisk
-    Handle "negative" dates that are created when the first payment is before todays date. 
+    Get curves for EURIBOR, LIBOR ETC. 
+    Connect the correct IBOR to the trade/row when calculating cashflows
 
 Optimize Autoencoder
     dim
